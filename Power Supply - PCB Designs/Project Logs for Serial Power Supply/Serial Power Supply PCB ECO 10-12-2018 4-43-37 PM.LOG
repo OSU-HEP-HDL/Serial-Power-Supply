@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X90X35LL10T15 New Footprint=CAPC1206(3216)170_M
+Change Component Comment : Designator=C3 Old Comment=GRM188R71H152KA01D New Comment=CAP 1.5nF 50V 1206(3216)
+Change component parameters: Designator = "C3"; Footprint = "CAPC1206(3216)170_M"; UniqueID = "\UVRSXLLX\PJMVDDYW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.5nF"; VariantName = "[No Variations]"

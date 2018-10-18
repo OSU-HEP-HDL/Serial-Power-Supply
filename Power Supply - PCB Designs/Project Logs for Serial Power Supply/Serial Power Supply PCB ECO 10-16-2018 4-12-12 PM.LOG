@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=+5 Pin=C21-2
+Removed Member From Class: ClassName=U_DC-DC Converter Member=R?
+Change Component Footprint: Designator=C21 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC1206(3216)100_N
+Change Component Comment : Designator=C21 Old Comment=CAP 100nF 6.3V 0402(1005) New Comment=CAP 100nF 50V 1206(3216)
+Change component parameters: Designator = "C21"; Footprint = "CAPC1206(3216)100_N"; UniqueID = "\PAFCHGPV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2

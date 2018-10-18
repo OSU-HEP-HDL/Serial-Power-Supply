@@ -1,0 +1,20 @@
+Added Component: Designator=U1(LT-FE-16-EPV-BC_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.linear.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://cds.linear.com/docs/en/datasheet/3845fd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://cds.linear.com/docs/en/packaging/05081663__J_FE16(BC).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Adjust Range"; Value = "100kHz - 500kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Plastic TSSOP, Body 5 x 4.4 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "FE-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. J, 11/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LT3845MPFE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Added Class: Name=Serial Power Supply - Main
+Added Room: Name=Serial Power Supply - Main

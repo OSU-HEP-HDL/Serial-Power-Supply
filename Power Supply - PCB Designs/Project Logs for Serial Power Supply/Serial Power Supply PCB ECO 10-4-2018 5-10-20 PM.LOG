@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VOut Pin=J3-1
+Removed Member From Class: ClassName=Serial Power Supply - Main Member=MH1
+Removed Member From Class: ClassName=Serial Power Supply - Main Member=MH2
+Removed Member From Class: ClassName=Serial Power Supply - Main Member=MH3
+Removed Member From Class: ClassName=Serial Power Supply - Main Member=MH4
+Added Pin To Net: NetName=NetC22_2 Pin=J3-1
+Added Pin To Net: NetName=VOut Pin=J3-1
+Added Member To Class: ClassName=U_Controller Member=Component C24 CAP 1uF 16V 0402(1005)

@@ -1,0 +1,13 @@
+Change Component Comment : Designator=R27 Old Comment=0.1Ohms 1% 2512(6432) New Comment=0.01Ohms 1% 2512(6432)
+Change component parameters: Designator = "R27"; Footprint = "RESC2512(6432)_L"; UniqueID = "\RLJXJLHE\BHHKEMTJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "6432"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CSM25120R0100BST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 Ohms"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC13_2 New Net Name=Sense+
+Change Net Name : Old Net Name=VOut New Net Name=Sense-

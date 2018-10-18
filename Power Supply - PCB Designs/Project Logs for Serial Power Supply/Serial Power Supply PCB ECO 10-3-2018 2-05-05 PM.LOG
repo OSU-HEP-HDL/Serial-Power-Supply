@@ -1,0 +1,126 @@
+Removed Member From Class: ClassName=Serial Power Supply - Main Member=C?
+Removed Member From Class: ClassName=Serial Power Supply - Main Member=R?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC15_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR8_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=D1-1
+Added Pin To Net: NetName=NetC6_1 Pin=R1-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=C10-2
+Added Pin To Net: NetName=NetC6_2 Pin=D2-2
+Added Pin To Net: NetName=NetC6_2 Pin=L1-1
+Added Pin To Net: NetName=NetC6_2 Pin=R4-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U1-3
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=D1-2
+Added Pin To Net: NetName=NetC14_2 Pin=D3-2
+Added Pin To Net: NetName=NetC14_2 Pin=U1-13
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=R9-2
+Added Pin To Net: NetName=NetC16_2 Pin=U1-6
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=R9-1
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=R13-2
+Added Pin To Net: NetName=NetC19_2 Pin=R14-1
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetQ1_G Pin=R2-2
+Added Net: Name=NetQ1_G
+Added Pin To Net: NetName=NetQ3_G Pin=R6-2
+Added Net: Name=NetQ3_G
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-16
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-15
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U1-8
+Added Net: Name=NetR10_2
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C1 UCZ1J470MCS1GS
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C2 UCZ1J470MCS1GS
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C3 CAP 2.2uF 100V 1812(4532)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C4 CAP 2.2uF 100V 1812(4532)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C5 CAP 470nF 100V 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C6 C1206C104K5RACTU
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C7 GRM188R71H152KA01D
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C8 TCJE686M025R0050
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C9 TCJE686M025R0050
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C10 CAP 470pF 50V 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C11 CAP 22uF 25V 1210(3225)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C12 CAP 22uF 25V 1210(3225)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C13 CAP 1uF 25V 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C14 CAP 1uF 25V 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C15 CAP 10nF 50V 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C16 CAP 100pF 50V 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component C17 CAP 2.2nF 50V 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component C19 CAP 1uF 25V 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component D1 BAS16XV2T1
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component D3 1N4148WS-7-F
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component D4 B160-13-F
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R1 Jumper 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R2 Jumper 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R3 100K 1% 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R4 Jumper 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R5 WSLP12066L000FEA
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R6 Jumper 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R8 100K 1% 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R9 30K9 1% 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R10 118K 1% 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R11 100K 1% 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R12 10K 1% 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component R13 5K1 1% 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component R14 15K 1% 1206(3216)

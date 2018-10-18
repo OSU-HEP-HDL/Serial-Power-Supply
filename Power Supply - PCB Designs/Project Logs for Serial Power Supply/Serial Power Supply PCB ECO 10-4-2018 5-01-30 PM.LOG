@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=U_DC-DC Converter Member=C19
+Removed Member From Class: ClassName=U_DC-DC Converter Member=R24
+Removed Member From Class: ClassName=U_DC-DC Converter Member=R25
+Added Component: Designator=MH1(MTG_M2_PV)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH2(MTG_M2_PV)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH3(MTG_M2_PV)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH4(MTG_M2_PV)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VOut Pin=J3-1
+Change Net Name : Old Net Name=PB4 New Net Name=8
+Change Net Name : Old Net Name=PB6 New Net Name=10
+Change Net Name : Old Net Name=PB7 New Net Name=11
+Change Net Name : Old Net Name=PC7 New Net Name=13
+Change Net Name : Old Net Name=PD0 New Net Name=D3
+Change Net Name : Old Net Name=PD1 New Net Name=D2
+Change Net Name : Old Net Name=PD6 New Net Name=12
+Change Net Name : Old Net Name=PD7 New Net Name=D6
+Change Net Name : Old Net Name=PF0 New Net Name=A5
+Change Net Name : Old Net Name=PF1 New Net Name=A4
+Change Net Name : Old Net Name=PF4 New Net Name=A3
+Added Pin To Net: NetName=9 Pin=R14-1
+Added Pin To Net: NetName=9 Pin=U3-29
+Added Net: Name=9
+Added Pin To Net: NetName=D4 Pin=R3-1
+Added Pin To Net: NetName=D4 Pin=U3-25
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=R8-2
+Added Pin To Net: NetName=D5 Pin=U1-7
+Added Pin To Net: NetName=D5 Pin=U3-31
+Added Net: Name=D5
+Added Pin To Net: NetName=D7 Pin=U3-1
+Added Net: Name=D7
+Added Member To Class: ClassName=U_Controller Member=Component C20 CAP 1uF 25V 1206(3216)
+Added Member To Class: ClassName=U_Controller Member=Component C24 CAP 1uF 16V 0402(1005)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component MH1 Mounting-Hole-Screw
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component MH2 Mounting-Hole-Screw
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component MH3 Mounting-Hole-Screw
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component MH4 Mounting-Hole-Screw

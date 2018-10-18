@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=PF7 Pin=U3-36
+Removed Pin From Net: NetName=PF6 Pin=U3-37
+Removed Member From Class: ClassName=Serial Power Supply - Main Member=C19
+Removed Member From Class: ClassName=Serial Power Supply - Main Member=R13
+Removed Member From Class: ClassName=Serial Power Supply - Main Member=R14
+Added Component: Designator=C?(CAPC1206(3216)190_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1206(3216)190_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1206(3216)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5100.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1206(3216)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5100.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=PF6 Pin=C?-2
+Added Pin To Net: NetName=PF7 Pin=C?-2
+Added Pin To Net: NetName=PF6 Pin=R?-2
+Added Pin To Net: NetName=PF7 Pin=R?-2
+Change Net Name : Old Net Name=VFB New Net Name=NetP1_3
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=U2-1
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=U2-2
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U3-36
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=VFB Pin=R14-1
+Added Net: Name=VFB
+Added Member To Class: ClassName=U_Controller Member=Component C? CAP 1uF 25V 1206(3216)
+Added Member To Class: ClassName=U_Controller Member=Component C? CAP 1uF 25V 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R14 15K 1% 1206(3216)
+Added Member To Class: ClassName=U_Controller Member=Component R? 5K1 1% 1206(3216)
+Added Member To Class: ClassName=U_Controller Member=Component R? 5K1 1% 1206(3216)

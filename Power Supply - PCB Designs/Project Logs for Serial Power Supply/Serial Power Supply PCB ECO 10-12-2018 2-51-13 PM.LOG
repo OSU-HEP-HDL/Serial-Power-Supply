@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=U_Current Regulator Member=HS1
+Removed Member From Class: ClassName=U_Mechanical Member=HS1
+Change Component Footprint: Designator=FD1 Old Footprint=FID150X450 New Footprint=FID150X450
+Change Component Footprint: Designator=FD2 Old Footprint=FID150X450 New Footprint=FID150X450
+Change Component Footprint: Designator=FD3 Old Footprint=FID150X450 New Footprint=FID150X450

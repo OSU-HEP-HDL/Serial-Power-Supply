@@ -1,0 +1,22 @@
+Change Component Comment : Designator=J1 Old Comment=24.243.1 New Comment=+20 V
+Change Component Comment : Designator=J2 Old Comment=24.243.2 New Comment=GND
+Change Component Comment : Designator=J3 Old Comment=24.243.2 New Comment=Return
+Change Component Comment : Designator=J4 Old Comment=24.243.2 New Comment=VOut
+Change Component Description : Designator=J2 Old Description=24.243.2 New Description=Banana Socket, 20a, 4mm, Pcb, Black
+Change Component Description : Designator=J4 Old Description=Banana Socket, 20a, 4mm, Pcb, Black New Description=Banana Socket, 20a, 4mm, Pcb, Red
+Change component parameters: Designator = "J1"; Footprint = "PCB-1keg917tfggg2k36z9zw-1"; UniqueID = "\JXQMXDWJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "80P3616"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; Footprint = "PCB-1keg917tfggg2k36z9zw-1"; UniqueID = "\YAVKRWPC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "80P3613"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3"; Footprint = "PCB-1keg917tfggg2k36z9zw-1"; UniqueID = "\JYQDLBYX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "80P3613"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4"; Footprint = "PCB-1keg917tfggg2k36z9zw-1"; UniqueID = "\UXTAUGVR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "80P3616"; VariantName = "[No Variations]"

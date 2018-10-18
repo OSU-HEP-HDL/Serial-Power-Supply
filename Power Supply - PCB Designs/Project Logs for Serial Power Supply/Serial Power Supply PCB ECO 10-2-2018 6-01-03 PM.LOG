@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=Serial Power Supply - Main Member=D1
+Added Component: Designator=D?(DIOD-SMA-2_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case\Package"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.diodes.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.diodes.com/_files/datasheets/ds30891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 17 - 2, 09/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "3 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "500 mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Surge Current"; Value = "80 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mounted Assembly, Body 4.3 x 2.605 mm, Height 2.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMA-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reverse Current"; Value = "500 uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.92 mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component C10 CAP 33uF 16V 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component C? CAP 470nF 100V 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component C? UCZ1J470MCS1GS
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component C? CAP 2.2uF 100V 1812(4532)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component C? CAP 2.2nF 50V 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component C? CAP 2.2uF 100V 1812(4532)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component C? CAP 100pF 50V 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component D? B340A-13-F
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component D? BAS16XV2T1
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component R? Jumper 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component R? 100K 1% 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component R? Jumper 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component R? 30K9 1% 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component R? 118K 1% 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component R? 100K 1% 1206(3216)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component R? Jumper 1206(3216)
+Added Room: Name=Serial Power Supply - Main

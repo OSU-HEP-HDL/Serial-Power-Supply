@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=Serial Power Supply.PrjPcb
+[Project2]
+ProjectPath=..\..\..\..\..\iCloudDrive\Documents\ContentDesign\Hardware Design\Common\Scripts\MechLayerNames\MechLayerNames.PrjScr

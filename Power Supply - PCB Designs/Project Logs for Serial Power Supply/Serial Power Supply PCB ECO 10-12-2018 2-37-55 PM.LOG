@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=U_Controller Member=C21
+Removed Member From Class: ClassName=Serial Power Supply - Main Member=C30
+Removed Member From Class: ClassName=Serial Power Supply - Main Member=J5
+Removed Member From Class: ClassName=U_DC-DC Converter Member=R19
+Removed Member From Class: ClassName=U_Controller Member=R27
+Removed Member From Class: ClassName=U_DC-DC Converter Member=R27
+Removed Member From Class: ClassName=U_Controller Member=U2
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component C19 UCZ1J470MCS1GS
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component C20 CAP 2.2uF 100V 1812(4532)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component C21 CAP 100nF 6.3V 0402(1005)
+Added Member To Class: ClassName=U_Controller Member=Component C22 CAP 10uF 6.3V 0603(1608)
+Added Member To Class: ClassName=U_Controller Member=Component C23 CAP 100nF 6.3V 0402(1005)
+Added Member To Class: ClassName=U_Controller Member=Component C24 CAP 1uF 25V 1206(3216)
+Added Member To Class: ClassName=U_Controller Member=Component C25 CAP 1uF 25V 1206(3216)
+Added Member To Class: ClassName=U_Controller Member=Component C27 CAP 1uF 16V 0402(1005)
+Added Member To Class: ClassName=Serial Power Supply - Main Member=Component J3 24.243.2
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R13 150K 1% 1206(3216)
+Added Member To Class: ClassName=U_DC-DC Converter Member=Component R16 10K 1% 1206(3216)
+Added Member To Class: ClassName=U_Controller Member=Component R17 10K 5% 0402(1005)
+Added Member To Class: ClassName=U_Controller Member=Component R18 Jumper 1206(3216)
+Added Member To Class: ClassName=U_Controller Member=Component R20 5K1 1% 1206(3216)
+Added Member To Class: ClassName=U_Controller Member=Component R21 5K1 1% 1206(3216)
+Added Member To Class: ClassName=U_Current Regulator Member=Component R26 10K 1% 1206(3216)
+Added Member To Class: ClassName=U_Current Regulator Member=Component R27 10K 1% 1206(3216)
+Added Member To Class: ClassName=U_Current Regulator Member=Component R28 0.01Ohms 1% 2512(6432)
+Added Member To Class: ClassName=U_Controller Member=Component U5 EMI2121MTTAG

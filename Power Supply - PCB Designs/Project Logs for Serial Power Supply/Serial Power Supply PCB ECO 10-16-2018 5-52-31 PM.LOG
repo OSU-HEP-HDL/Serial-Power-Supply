@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=USB_P Pin=U5-1
+Removed Pin From Net: NetName=USB_N Pin=U5-2
+Removed Pin From Net: NetName=NetR21_1 Pin=U5-7
+Removed Pin From Net: NetName=NetR22_1 Pin=U5-8
+Removed Member From Class: ClassName=U_DC-DC Converter Member=R?
+Added Pin To Net: NetName=USB_N Pin=U5-1
+Added Pin To Net: NetName=USB_P Pin=U5-2
+Added Pin To Net: NetName=NetR22_1 Pin=U5-7
+Added Pin To Net: NetName=NetR21_1 Pin=U5-8

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1206(3216)100_L New Footprint=CAPC1206(3216)100_N
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1206(3216)130_L New Footprint=CAPC1206(3216)130_N
+Change Component Footprint: Designator=C1 Old Footprint=CAPC1206(3216)130_M New Footprint=CAPC1206(3216)130_N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1206(3216)170_M New Footprint=CAPC1206(3216)170_N
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1206(3216)170_M New Footprint=CAPC1206(3216)170_N
+Change Component Footprint: Designator=C12 Old Footprint=CAPC1206(3216)170_M New Footprint=CAPC1206(3216)170_N
+Change Component Footprint: Designator=C16 Old Footprint=CAPC1210(3225)280_M New Footprint=CAPC1210(3225)280_N
+Change Component Footprint: Designator=C17 Old Footprint=CAPC1210(3225)280_M New Footprint=CAPC1210(3225)280_N
+Change Component Footprint: Designator=C2 Old Footprint=KEMT-1206-2_M New Footprint=KEMT-1206-2_N
+Change Component Footprint: Designator=R12 Old Footprint=RESC1206(3216)_L New Footprint=RESC1206(3216)_N
