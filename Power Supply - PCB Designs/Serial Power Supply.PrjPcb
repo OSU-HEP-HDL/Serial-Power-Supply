@@ -39,6 +39,11 @@ IncludeDesignInRelease=0
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Release]
+ReleaseTarget=1
+ReleaseFolderPath=[OutputPath]
+ReleaseZipPath=[OutputPath][ProjectName].zip
+
 [Document1]
 DocumentPath=..\..\..\..\..\iCloudDrive\Documents\ContentDesign\Components\Generic Models\SCH Symbols\Heat Sink\Heat Sink Leaded.SchLib
 AnnotationEnabled=1
@@ -366,13 +371,11 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=2
+OutputJobsCount=1
 DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=Validation.OUTJOB
-DocumentReferenceClass2=DocumentReference
-OutputJobFileName2=Fabrication-L2.OUTJOB
-ContentTypeGUID=
-ConfigurationType=
+OutputJobFileName1=Macrofab.OutJob
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
 
 [Configuration2]
 Name=Assembly
@@ -380,13 +383,9 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=2
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=Assembly.OUTJOB
-DocumentReferenceClass2=DocumentReference
-OutputJobFileName2=Validation.OUTJOB
-ContentTypeGUID=
-ConfigurationType=
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
 
 [Configuration3]
 Name=Documentation
@@ -394,17 +393,19 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=4
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=Assembly.OUTJOB
-DocumentReferenceClass2=DocumentReference
-OutputJobFileName2=Documentation.OUTJOB
-DocumentReferenceClass3=DocumentReference
-OutputJobFileName3=Validation.OUTJOB
-DocumentReferenceClass4=DocumentReference
-OutputJobFileName4=Fabrication-L2.OUTJOB
-ContentTypeGUID=
-ConfigurationType=
+OutputJobsCount=0
+ContentTypeGUID=B953ABBB-897D-493B-96D2-85DABE1896C4
+ConfigurationType=Custom
+
+[Configuration4]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
 
 [OutputGroup1]
 Name=Netlist Outputs
