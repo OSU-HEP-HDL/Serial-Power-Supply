@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Layer_Color=16711935
 #
 #Feature symbol names
@@ -10,3 +11,17 @@
 #
 #Layer features
 #
+=======
+#Layer_Color=16711935
+#
+#Feature symbol names
+#
+
+#
+#Feature attribute names
+#
+
+#
+#Layer features
+#
+>>>>>>> develop

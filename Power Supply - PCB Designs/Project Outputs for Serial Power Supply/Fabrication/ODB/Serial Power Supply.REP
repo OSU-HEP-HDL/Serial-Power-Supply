@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *************************************************************
 FileName = Serial Power Supply.PcbDoc
 ODB++ directory structure
@@ -118,3 +119,125 @@ Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabricati
 
 Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\eda\data
 
+=======
+*************************************************************
+FileName = Serial Power Supply.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\signal_layer_1\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\signal_layer_1\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\signal_layer_2\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\signal_layer_2\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\board_outline\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\board_outline\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\panel_outline\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\panel_outline\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\board_dimensions\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\board_dimensions\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\panel_dimensions\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\panel_dimensions\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\mechanical_10\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\mechanical_10\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\external_3d_bodies\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\external_3d_bodies\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\fab_notes\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\fab_notes\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_assembly_layer\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_assembly_layer\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_assembly_layer\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_assembly_layer\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_placement_courtyard\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_placement_courtyard\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\route_tool_path\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\route_tool_path\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_placement_courtyard\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_placement_courtyard\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\Steven\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\eda\data
+
+>>>>>>> develop
