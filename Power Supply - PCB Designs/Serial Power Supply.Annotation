@@ -1,0 +1,14 @@
+[DesignatorManager]
+LogicalDesignator0=TP3
+LogicalPartID0=1
+DocumentName0=Serial Power Supply - Main.SchDoc
+ChannelName0=Serial Power Supply - Main
+UniqueID0=\AKSOQHFI
+PhysicalDesignator0=5V
+PhysicalDesignatorLocked0=0
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+
