@@ -462,18 +462,6 @@ ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
 [Configuration3]
-Name=Documentation
-ParameterCount=0
-ConstraintFileCount=0
-ReleaseItemId=
-Variant=[No Variations]
-OutputJobsCount=1
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=Serial Power Supply.OutJob
-ContentTypeGUID=B953ABBB-897D-493B-96D2-85DABE1896C4
-ConfigurationType=Custom
-
-[Configuration4]
 Name=Sources
 ParameterCount=0
 ConstraintFileCount=0
