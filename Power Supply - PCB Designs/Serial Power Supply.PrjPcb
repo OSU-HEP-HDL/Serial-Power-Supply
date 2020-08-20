@@ -30,9 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
-VaultGUID=6332846E-53A4-4D73-BB7E-E2753C2A4E44
-ReleaseVaultName=CERN PCB Vault
+ManagedProjectGUID=3786FE32-95BB-42CD-B45E-A1A2A13B3B22
+VaultGUID=10139DC3-ACFB-493F-892B-0CF252601D42
+ReleaseVaultName=Oklahoma State University
+ItemGUID=3786FE32-95BB-42CD-B45E-A1A2A13B3B22
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -402,40 +403,36 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Serial Power Supply\Design Rule Check - Serial Power Supply.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Serial Power Supply 11-03-2020 17-24-59.WAS
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectTitle
-Value=ProjectTitle
+Name=CERNProject
+Value=CERNProject
 
 [Parameter2]
-Name=ProjectOrganization
-Value=European Organization for Nuclear Research
+Name=EDHNumber
+Value=EDHNumber
 
 [Parameter3]
-Name=ProjectAddress2
-Value=
+Name=Group
+Value=PH-ADE-ID
 
 [Parameter4]
 Name=ProjectAddress1
 Value=CH-1211 Genève 23 - Switzerland
 
 [Parameter5]
-Name=Group
-Value=PH-ADE-ID
+Name=ProjectAddress2
+Value=
 
 [Parameter6]
-Name=EDHNumber
-Value=EDHNumber
+Name=ProjectOrganization
+Value=European Organization for Nuclear Research
 
 [Parameter7]
-Name=CERNProject
-Value=CERNProject
+Name=ProjectTitle
+Value=ProjectTitle
 
 [Configuration1]
 Name=Fabrication
@@ -858,6 +855,11 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=GOSTBOM
+OutputName7=GOST BOM
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1143,6 +1145,11 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=AnsysEDB
+OutputName12=Ansys EDB
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
